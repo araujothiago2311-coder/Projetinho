@@ -1,0 +1,13 @@
+h2{
+    border: 1px solid green;
+}
+
+header{
+    display: flex;
+}
+
+nav ul{
+    display: flex;
+    list-style:nome;
+    gap:20px;
+}
